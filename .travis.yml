@@ -1,5 +1,2 @@
 language: c
-script: make
-branches:
-  only:
-  -master
+script: make main
